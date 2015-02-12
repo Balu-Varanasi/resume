@@ -16,13 +16,7 @@ I'm a Software Developer and Entrepreneur having experience in the areas of Deve
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Founder at Firebolt Labs, Aug 2014 - Present
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Heading the day-to-day-operations, as well as handling the company’s product and consulting projects. 
-
-
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Software Consultant at Savitr Software Services, Aug 2014 – Sept 2014
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Helped a team of four people in architecting and developing a Ruby on Rails application.
+Heading the day-to-day-operations, as well as handling the company’s product and consulting projects.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Software Developer at Crypsis Technologies, Sept 2013 – July 2014
@@ -69,7 +63,7 @@ Django Applications:
 * `Sufo <https://sufo.org>`_, an Educational Video site for Physicians.
 * Feature Developments in `Suggestar <http://www.suggestar.com/>`_.
 * Customized the Django Admin CMS for `CineSport <http://www.cinesport.com/>`_, an innovative web video syndication company.
-* Feature Development in `TravelDojo <http://www.traveldojo.com/>`_, a company to create travel guides to the Southeast Asia region including China.
+* Feature Development in `TravelDojo <http://www.traveldojo.com/>`_, a company to create travel guides to the Southeast Asia region.
 * Testing and Bugfixes `Ocassio Health Strategies <https://www.occasiohealth.org/>`_.
 * Seeded `HyderabadWiki <http://hyderabadwiki.com/>`_ with Wikipedia dump in LocalWiki Format.
 * `The Xaming Arena <https://github.com/Balu-Varanasi/The_Xaming_Arena>`_, a simple Online Examination system using Django framework.
