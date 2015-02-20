@@ -77,6 +77,7 @@ Ruby on Rails Applications:
 * Feature Developments and Test Cases Development in `Mega Golf Virtual League <http://dev.megagolfvirtualleague.com/>`_
 
 Android Applications:
+
 * "Windows Ambassador", an application by Microsoft.
 * "Where's My App?", checks the availability status of apps and games in the Windows Phone Store.
 * "`Baby Names <https://github.com/Balu-Varanasi/BabyNamesApp>`_", a simple android app to choose a baby name.
