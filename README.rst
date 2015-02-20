@@ -56,7 +56,7 @@ Open Source:
 * `pep8 improvements <https://github.com/joblib/joblib/commits?author=Balu-Varanasi>`_ in `joblib <http://packages.python.org/joblib/>`_.
 * `Sentiment Analyzer <https://github.com/Balu-Varanasi/sentiment-analyzer>`_, a simple sentiment classification tool for Telugu Language.
 * `Feature Improvements and Test Cases <https://github.com/agiliq/join.agiliq.com/commits?author=Balu-Varanasi>`_ in `Join.agiliq.com <https://github.com/agiliq/join.agiliq.com/>`_
-* `Improvments to code samples <https://github.com/agiliq/djenofdjango/commits?author=Balu-Varanasi>`_ to `DjenOfDjango <http://agiliq.com/books/djenofdjango>`_.
+* `Improvments to code samples <https://github.com/agiliq/djenofdjango/commits?author=Balu-Varanasi>`_ in `DjenOfDjango <http://agiliq.com/books/djenofdjango>`_.
 
 Django Applications:
 
