@@ -13,9 +13,14 @@ Experience
 ----------
 I'm a Software Developer and Entrepreneur having experience in the areas of Development, Design and Management of various Web and Mobile applications using Python/Django, Ruby on Rails and Android. I'm also an Open-Source Enthusiast, loves to read and teach open source tools.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Founder at Firebolt Labs, Aug 2014 - Present
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Software Engineer at TinyOwl Technology, April 2015 - Present
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Involved in the development of TinyOwl, a food ordering application.
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Founder at Firebolt Labs, Aug 2014 - April 2015
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Heading the day-to-day-operations, as well as handling the company’s product and consulting projects.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -70,6 +75,7 @@ Django Applications:
 
 Ruby on Rails Applications:
 
+* `TinyOwl <http://tinyowl.com>`_, a food ordering application.
 * Mr Delicious, an online food delivery system.
 * `Investment Club <http://investmentclub.stockviews.com/>`_ by `StockViews <http://www.stockviews.com/>`_.
 * Feature Development in `Swym <http://swym.it/>`_
