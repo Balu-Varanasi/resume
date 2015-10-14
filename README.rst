@@ -11,22 +11,22 @@ Bala Subrahmanyam Varanasi
 ----------
 Experience
 ----------
-I'm a Software Developer and Entrepreneur having experience in the areas of Development, Design and Management of various Web and Mobile applications using Python/Django, Ruby on Rails and Android. I'm also an Open-Source Enthusiast, loves to read and teach open source tools.
+A Software Engineer with nearly four years of professional experience in the areas of Development, Design and Management of various Web and Mobile applications using Python/Django, Ruby on Rails and Android. Also, an Open-Source Enthusiast, loves to read and teach open source tools.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Software Engineer at TinyOwl Technology, April 2015 - Present
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Involved in the development of TinyOwl, a food ordering application.
+Involved in the process of refactoring TinyOwl app into micro service applications using Ruby On Rails, MongoDB, PostgreSQL, Redis, AWS and etc…
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Founder at Firebolt Labs, Aug 2014 - April 2015
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Heading the day-to-day-operations, as well as handling the company’s product and consulting projects.
+Headed the day-to-day-operations, as well as handled the company’s product and consulting projects.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Software Developer at Crypsis Technologies, Sept 2013 – July 2014
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Involved in the development of web and mobile apps using various technologies like Ruby on Rails,
+Responsible for the development of web and mobile apps using various technologies like Ruby on Rails,
 Android and NodeJS.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -98,7 +98,7 @@ Education
 ------------
 Publications
 ------------
-"Python Requests Essentials", a book which showcases fundamental as well as advanced Python Requests concepts.
+"Python Requests Essentials", a book which showcases fundamental as well as advanced Python Requests concepts. (ISBN-10: 1784395412) (ISBN-13: 978-1784395414)
 
 ------------
 As a speaker
