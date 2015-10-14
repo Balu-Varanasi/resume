@@ -6,7 +6,7 @@ Bala Subrahmanyam Varanasi
 * Website: http://www.vabasu.com
 * Code: https://github.com/balu-varanasi
 * LinkedIn: https://in.linkedin.com/in/vabasu
-* Mobile: (+91) 9985415959
+* Mobile: (+91) 9819633692
 
 ----------
 Experience
