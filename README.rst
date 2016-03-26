@@ -11,17 +11,21 @@ Bala Subrahmanyam Varanasi
 ----------
 Experience
 ----------
-A Software Engineer with nearly four years of professional experience in the areas of Development, Design and Management of various Web and Mobile applications using Python/Django, Ruby on Rails and Android. Also, an Open-Source Enthusiast, loves to read and teach open source tools.
+A Software Engineer with four years of professional experience in the areas of Development, Design and Management of various Web and Mobile applications using Python/Django, Ruby on Rails and Android. Also, an Open-Source Enthusiast who loves to learn and teach open source tools.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Software Engineer at TinyOwl Technology, April 2015 - Present
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Involved in the process of refactoring TinyOwl app into micro service applications using Ruby On Rails, MongoDB, PostgreSQL, Redis, AWS and etc…
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Backend Developer at Glitterbug Technology, November 2015 – Present
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Software Engineer at TinyOwl Technology, April 2015 - November 2015
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Responsible for developing and maintaining micro service applications using Ruby On Rails, MongoDB, PostgreSQL, Redis, AWS and etc…
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Founder at Firebolt Labs, Aug 2014 - April 2015
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Headed the day-to-day-operations, as well as handled the company’s product and consulting projects.
+Headed day-to-day-operations, as well as handled the company’s product and consulting projects.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Software Developer at Crypsis Technologies, Sept 2013 – July 2014
@@ -42,13 +46,12 @@ Involved in the development of various new features, bugfixing and writing test 
 ---------
 Interests
 ---------
-``FOSS``, ``Web development``, ``Mobile Development``, ``Artificial Intelligence``,
-``Machine Learning``.
+``FOSS``, ``Web development``, ``Mobile Development`` and ``DevOps``.
 
 ------
 Skills
 ------
-``Python``, ``Django``, ``Ruby on Rails``, ``Flask``, ``Android``, ``HTML5``, ``CSS3``, ``jQuery``, ``AngularJS``, ``GIT``, ``Ubuntu``, ``MySQL``, ``PostgreSQL``, ``MongoDB``.
+``Data Structures``, ``Algorithms``, ``Databases``, ``Python``, ``Django``, ``Ruby on Rails``, ``Ansible``, ``GIT``.
 
 --------
 Projects
@@ -64,7 +67,7 @@ Open Source:
 * `Improvments to code samples <https://github.com/agiliq/djenofdjango/commits?author=Balu-Varanasi>`_ in `DjenOfDjango <http://agiliq.com/books/djenofdjango>`_.
 
 Django Applications:
-
+* `CoverFox <https://https://www.coverfox.com/`_, an online insurance destination.
 * `Sufo <https://sufo.org>`_, an Educational Video site for Physicians.
 * Feature Developments in `Suggestar <http://www.suggestar.com/>`_.
 * Customized the Django Admin CMS for `CineSport <http://www.cinesport.com/>`_, an innovative web video syndication company.
