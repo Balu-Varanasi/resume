@@ -11,11 +11,11 @@ Bala Subrahmanyam Varanasi
 ----------
 Experience
 ----------
-A Software Engineer with four years of professional experience in the areas of Development, Design and Management of various Web and Mobile applications using Python/Django, Ruby on Rails and Android. Also, an Open-Source Enthusiast who loves to learn and teach open source tools.
+A Senior Software Engineer with five years of experience in the areas of Development, Design and Management of various Web and Mobile applications using Python/Django, Ruby on Rails and Android. Also, an Open-Source Enthusiast who loves to learn and teach open source tools.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Backend Developer at Glitterbug Technology, November 2015 – Present
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Senior Software Engineer at Glitterbug Technology, November 2015 – Present
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Software Engineer at TinyOwl Technology, April 2015 - November 2015
