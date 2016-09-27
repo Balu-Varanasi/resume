@@ -68,7 +68,7 @@ Open Source:
 
 Django Applications:
 
-* `CoverFox <https://https://www.coverfox.com/`_, an online insurance destination.
+* `CoverFox <https://https://www.coverfox.com/>`_, an online insurance destination.
 * `Sufo <https://sufo.org>`_, an Educational Video site for Physicians.
 * Feature Developments in `Suggestar <http://www.suggestar.com/>`_.
 * Customized the Django Admin CMS for `CineSport <http://www.cinesport.com/>`_, an innovative web video syndication company.
