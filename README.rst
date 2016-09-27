@@ -67,6 +67,7 @@ Open Source:
 * `Improvments to code samples <https://github.com/agiliq/djenofdjango/commits?author=Balu-Varanasi>`_ in `DjenOfDjango <http://agiliq.com/books/djenofdjango>`_.
 
 Django Applications:
+
 * `CoverFox <https://https://www.coverfox.com/`_, an online insurance destination.
 * `Sufo <https://sufo.org>`_, an Educational Video site for Physicians.
 * Feature Developments in `Suggestar <http://www.suggestar.com/>`_.
