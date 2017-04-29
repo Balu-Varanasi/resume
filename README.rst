@@ -11,11 +11,20 @@ Bala Subrahmanyam Varanasi
 ----------
 Experience
 ----------
-A Senior Software Engineer with five years of experience in the areas of Development, Design and Management of various Web and Mobile applications using Python/Django, Ruby on Rails and Android. Also, an Open-Source Enthusiast who loves to learn and teach open source tools.
+A Senior Software Engineer with more than five years of professional experience from design and document to implementation of various Web and Mobile applications using Python/Django, Ruby on Rails and Android in a fast-paced deadline oriented environments.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Senior Software Engineer at Glitterbug Technology, November 2015 – Present
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Build scalable software through architecture discussions with the leadership
+- Participate with other teams, to provide solutions for our customers
+- Manage Sprint/Development cycle for the development team and manage team during the cycle
+- Determine complexity level of a story in a Sprint/Development cycle
+- Communicate with leadership on current project status
+- Error prevention and error detection possible
+- Test-driven development
+- Continuous integration
+- Roundup or Trac for bug tracking and project management
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Software Engineer at TinyOwl Technology, April 2015 - November 2015
@@ -57,44 +66,45 @@ Skills
 Projects
 --------
 
-Open Source:
-
-* `Feature Development <https://github.com/agiliq/django-graphos/commits?author=Balu-Varanasi>`_ in `django-graphos <https://github.com/agiliq/django-graphos>`_.
-* `Bugfixes and pep8 improvements <https://github.com/scikit-learn/scikit-learn/commits?author=Balu-Varanasi>`_ in `scikit-learn <http://scikit-learn.org/>`_.
-* `pep8 improvements <https://github.com/joblib/joblib/commits?author=Balu-Varanasi>`_ in `joblib <http://packages.python.org/joblib/>`_.
-* `Sentiment Analyzer <https://github.com/Balu-Varanasi/sentiment-analyzer>`_, a simple sentiment classification tool for Telugu Language.
-* `Feature Improvements and Test Cases <https://github.com/agiliq/join.agiliq.com/commits?author=Balu-Varanasi>`_ in `Join.agiliq.com <https://github.com/agiliq/join.agiliq.com/>`_
-* `Improvments to code samples <https://github.com/agiliq/djenofdjango/commits?author=Balu-Varanasi>`_ in `DjenOfDjango <http://agiliq.com/books/djenofdjango>`_.
-
 Django Applications:
 
-* `CoverFox <https://https://www.coverfox.com/>`_, an online insurance destination.
-* `Sufo <https://sufo.org>`_, an Educational Video site for Physicians.
-* Feature Developments in `Suggestar <http://www.suggestar.com/>`_.
-* Customized the Django Admin CMS for `CineSport <http://www.cinesport.com/>`_, an innovative web video syndication company.
-* Feature Development in `TravelDojo <http://www.traveldojo.com/>`_, a company to create travel guides to the Southeast Asia region.
-* Testing and Bugfixes `Ocassio Health Strategies <https://www.occasiohealth.org/>`_.
-* Seeded `HyderabadWiki <http://hyderabadwiki.com/>`_ with Wikipedia dump in LocalWiki Format.
-* `The Xaming Arena <https://github.com/Balu-Varanasi/The_Xaming_Arena>`_, a simple Online Examination system using Django framework.
+* `CoverFox <https://https://www.coverfox.com/>`_, an online insurance destination
+* `Sufo <https://sufo.org>`_, an Educational Video site for Physicians
+* Feature Developments in `Suggestar <http://www.suggestar.com/>`_
+* Customized the Django Admin CMS for `CineSport <http://www.cinesport.com/>`_, an innovative web video syndication company
+* Feature Development in `TravelDojo <http://www.traveldojo.com/>`_, a company to create travel guides to the Southeast Asia region
+* Testing and Bugfixes `Ocassio Health Strategies <https://www.occasiohealth.org/>`_
+* Seeded `HyderabadWiki <http://hyderabadwiki.com/>`_ with Wikipedia dump in LocalWiki Format
+* `The Xaming Arena <https://github.com/Balu-Varanasi/The_Xaming_Arena>`_, a simple Online Examination system using Django framework
 
 Ruby on Rails Applications:
 
-* `TinyOwl <http://tinyowl.com>`_, a food ordering application.
-* Mr Delicious, an online food delivery system.
-* `Investment Club <http://investmentclub.stockviews.com/>`_ by `StockViews <http://www.stockviews.com/>`_.
+* `TinyOwl <http://tinyowl.com>`_, a food ordering application
+* Mr Delicious, an online food delivery system
+* `Investment Club <http://investmentclub.stockviews.com/>`_ by `StockViews <http://www.stockviews.com/>`_
 * Feature Development in `Swym <http://swym.it/>`_
-* `Virtual Analyst <http://myvirtualanalyst.com/>`_ by `Analytics Intelligence <http://analyticsintelligence.com/>`_.
+* `Virtual Analyst <http://myvirtualanalyst.com/>`_ by `Analytics Intelligence <http://analyticsintelligence.com/>`_
 * Feature Developments and Test Cases Development in `Mega Golf Virtual League <http://dev.megagolfvirtualleague.com/>`_
 
 Android Applications:
 
-* "Windows Ambassador", an application by Microsoft.
-* "Where's My App?", checks the availability status of apps and games in the Windows Phone Store.
-* "`Baby Names <https://github.com/Balu-Varanasi/BabyNamesApp>`_", a simple android app to choose a baby name.
+* "Windows Ambassador", an application by Microsoft
+* "Where's My App?", checks the availability status of apps and games in the Windows Phone Store
+* "`Baby Names <https://github.com/Balu-Varanasi/BabyNamesApp>`_", a simple android app to choose a baby name
+
+Open Source:
+
+* `Feature Development <https://github.com/agiliq/django-graphos/commits?author=Balu-Varanasi>`_ in `django-graphos <https://github.com/agiliq/django-graphos>`_
+* `Bugfixes and pep8 improvements <https://github.com/scikit-learn/scikit-learn/commits?author=Balu-Varanasi>`_ in `scikit-learn <http://scikit-learn.org/>`_
+* `pep8 improvements <https://github.com/joblib/joblib/commits?author=Balu-Varanasi>`_ in `joblib <http://packages.python.org/joblib/>`_
+* `Sentiment Analyzer <https://github.com/Balu-Varanasi/sentiment-analyzer>`_, a simple sentiment classification tool for Telugu Language
+* `Feature Improvements and Test Cases <https://github.com/agiliq/join.agiliq.com/commits?author=Balu-Varanasi>`_ in `Join.agiliq.com <https://github.com/agiliq/join.agiliq.com/>`_
+* `Improvments to code samples <https://github.com/agiliq/djenofdjango/commits?author=Balu-Varanasi>`_ in `DjenOfDjango <http://agiliq.com/books/djenofdjango>`_
 
 ---------
 Education
 ---------
+* **Artificial Intelligence Nanodegree**, Udacity, January 2017 – Present
 * **Bachelor of Technology**, Information Technology from Vishnu Institute of Technology, 2008 – 2012
 * **Intermediate** from Santhiniketan Junior College, 2006 – 2008
 * **SSC** from G.V&K.B.M School, 2006
@@ -107,4 +117,4 @@ Publications
 ------------
 As a speaker
 ------------
-**Pycon India**, 2013; **SciPy.in**, 2011 & 2013 and **CoDec**, 2012.
+**Pycon India**, 2013; **SciPy.in**, 2011 & 2013 and **CoDec**, 2012
