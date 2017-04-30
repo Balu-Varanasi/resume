@@ -8,6 +8,25 @@ Bala Subrahmanyam Varanasi
 * LinkedIn: https://in.linkedin.com/in/vabasu
 * Mobile: (+91) 9819633692
 
+----------------
+Technical Skills
+----------------
+**Web Frameworks**: Django, Ruby on Rails and Flask.
+**Programming Languages**: Python, Ruby and Java
+**Scripting Languages**: Python, Ruby and JavaScript
+**Databases**: MySQL, PostgreSQL and MongoDB
+**Cloud Platforms**: Amazon AWS and Digital Ocean
+**CI/CD Tools**: Jenkins, Ansible and Docker.
+**Markup Languages**: HTML5, Markdown and reStructuredText
+**Operating systems**: Ubuntu and Mac OS
+**Mobile Development**: Android
+**JavaScript Libraries**: jQuery, BackboneJs (Basic), KnockoutJS (Basic), ReactJS (Basic)
+
+---------
+Interests
+---------
+``Team Building``, ``Product Development``, ``Digital Media Marketing``, ``Backend Development``, ``OpenSource Software`` and ``DevOps``
+
 ----------
 Experience
 ----------
@@ -51,16 +70,6 @@ Worked with serveral clients across the globe on various projects and helped the
 Intern at Agiliq Info Solutions, Dec 2011 – May 2012
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Involved in the development of various new features, bugfixing and writing test cases for several Python/Django projects.
-
----------
-Interests
----------
-``FOSS``, ``Web development``, ``Mobile Development`` and ``DevOps``.
-
-------
-Skills
-------
-``Data Structures``, ``Algorithms``, ``Databases``, ``Python``, ``Django``, ``Ruby on Rails``, ``Ansible``, ``GIT``.
 
 --------
 Projects
