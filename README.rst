@@ -11,12 +11,12 @@ Bala Subrahmanyam Varanasi
 ----------------
 Technical Skills
 ----------------
-**Web Frameworks**: Django, Ruby on Rails and Flask.
+**Web Frameworks**: Django, Ruby on Rails and Flask
 **Programming Languages**: Python, Ruby and Java
 **Scripting Languages**: Python, Ruby and JavaScript
 **Databases**: MySQL, PostgreSQL and MongoDB
 **Cloud Platforms**: Amazon AWS and Digital Ocean
-**CI/CD Tools**: Jenkins, Ansible and Docker.
+**CI/CD Tools**: Jenkins, Ansible and Docker
 **Markup Languages**: HTML5, Markdown and reStructuredText
 **Operating systems**: Ubuntu and Mac OS
 **Mobile Development**: Android
