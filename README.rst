@@ -21,7 +21,7 @@ Chief Technology Officer, Rhymella Inc. (successfully acquihired by Zazzle Inc.)
 - Developed and maintained an application  using Python/ Django, Redis, PostgreSQL, MongoDB, Angular, and AWS
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Lead Full-Stack Software Consultant, ESPN CricInfo, “ESPN DIGITAL MEDIA PVT LTD” India, from Nov’20 to July 2021
+Lead Full-Stack Software Consultant, ESPN CricInfo, “ESPN DIGITAL MEDIA PVT LTD” India from Nov’20 to July 2021
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Reverse-Engineered legacy Cricinfo site and rebuilt it from scratch in modern architectures and technologies which served 30 million concurrent users during a live cricket match
 - Responsible for developing and maintaining highly scalable applications using Event-driven architectures
@@ -29,14 +29,14 @@ Lead Full-Stack Software Consultant, ESPN CricInfo, “ESPN DIGITAL MEDIA PVT LT
 - Developed a Change Data Capture pipeline using Apache Kafka, Debezium, Node.JS, and Redis
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Lead Full-Stack Software Consultant, Proximity Labs Pvt Ltd, India, from Mar’20 to Nov’20
+Lead Full-Stack Software Consultant, Proximity Labs Pvt Ltd, India from Mar’20 to Nov’20
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Built the core team by Interviewing more than 70 candidates for various positions, including Engineering managers
 - Guided team development efforts towards successful project delivery
 - Maintained high standards of software quality within the team by establishing good practices and habits
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Chief Technology Officer, The Wedding Brigade (Sitara Digital Ventures Pvt Ltd), Mumbai, India - from May’17 to March’20
+Chief Technology Officer, The Wedding Brigade (Sitara Digital Ventures Pvt Ltd), Mumbai, India from May’17 to March’20
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Responsible for building innovative products to deliver 3000+ happy weddings
 - Accelerated the business growth by leading the product vision and development which resulted in 20x revenue growth over a period of 2.5 years
@@ -44,9 +44,9 @@ Chief Technology Officer, The Wedding Brigade (Sitara Digital Ventures Pvt Ltd),
 - Hired & retained top talent, conducted one-on-ones periodically, and mentored the team
 
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Senior Software Engineer at Glitterbug Technology, November 2015 – Present
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Senior Software Engineer, Coverfox (Glitterbug Technology Pvt Ltd), Mumbai, India from Nov’15 to May’17
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Built scalable software through architecture discussions with the leadership
 - Participated with other teams, to provide solutions for our customers
 - Managed Sprint/Development cycle for the development team and manage team during the cycle
@@ -57,30 +57,22 @@ Senior Software Engineer at Glitterbug Technology, November 2015 – Present
 - Continuous integration
 - Roundup or Track for bug tracking and project management
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Software Engineer at TinyOwl Technology, April 2015 - November 2015
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Software Engineer, TinyOwl Technology Pvt Ltd, Mumbai, India - from Apr’15 to Nov’15
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Responsible for developing and maintaining micro service applications using Ruby On Rails, MongoDB, PostgreSQL, Redis, AWS and etc…
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Founder at Firebolt Labs, Aug 2014 - April 2015
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Founder, Firebolt Labs Pvt Ltd, Bhimavaram, India - from Aug’14 to Apr’15
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Headed day-to-day-operations, as well as handled the company’s product and consulting projects.
 
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Software Developer at Crypsis Technologies, Sept 2013 – July 2014
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Intern & Software Developer, Agiliq Info Solutions Pvt Ltd, Hyderabad, India - from Dec’11 to Aug’13
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^~
 - Responsible for the development of web and mobile apps using various technologies like Ruby on Rails,
 Android and NodeJS.
-
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Software Developer at Agiliq Info Solutions, June 2012 – Aug 2013
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Worked with serveral clients across the globe on various projects and helped them in building various web and mobile apps using Python/Django and Android.
-
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Intern at Agiliq Info Solutions, Dec 2011 – May 2012
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 - Involved in the development of various new features, bugfixing and writing test cases for several Python/Django projects.
 
 ----------------
