@@ -13,38 +13,38 @@ Experience
 ----------
 A Technology Management Professional with 10+ years of experience in building software products and teams. 
 
-* Chief Technology Officer, Rhymella Inc. (successfully acquihired by Zazzle Inc.) from July’21 to September’21
-=============================================================================================================
+## Chief Technology Officer, Rhymella Inc. (successfully acquihired by Zazzle Inc.) from July’21 to September’21
+
 - Laid out the product development strategy and led the product’s technical vision from idea to fully functional application which resulted in a successful startup acquisition
 - Designed and Implemented an image processing pipeline using AWS Serverless architecture and Amazon Rekognition API which evolved as a B2B product
 - Developed and maintained an application  using Python/ Django, Redis, PostgreSQL, MongoDB, Angular, and AWS
 
 
-* Lead Full-Stack Software Consultant, ESPN CricInfo, “ESPN DIGITAL MEDIA PVT LTD” India from Nov’20 to July 2021
-===============================================================================================================
+## Lead Full-Stack Software Consultant, ESPN CricInfo, “ESPN DIGITAL MEDIA PVT LTD” India from Nov’20 to July 2021
+
 - Reverse-Engineered legacy Cricinfo site and rebuilt it from scratch in modern architectures and technologies which served 30 million concurrent users during a live cricket match
 - Responsible for developing and maintaining highly scalable applications using Event-driven architectures
 - Implemented real-time cricket score updates using VerneMQ, which is a high-performance, distributed MQTT broker
 - Developed a Change Data Capture pipeline using Apache Kafka, Debezium, Node.JS, and Redis
 
 
-* Lead Full-Stack Software Consultant, Proximity Labs Pvt Ltd, India from Mar’20 to Nov’20
-=========================================================================================
+## Lead Full-Stack Software Consultant, Proximity Labs Pvt Ltd, India from Mar’20 to Nov’20
+
 - Built the core team by Interviewing more than 70 candidates for various positions, including Engineering managers
 - Guided team development efforts towards successful project delivery
 - Maintained high standards of software quality within the team by establishing good practices and habits
 
 
-* Chief Technology Officer, The Wedding Brigade (Sitara Digital Ventures Pvt Ltd), Mumbai, India from May’17 to March’20
-======================================================================================================================
+## Chief Technology Officer, The Wedding Brigade (Sitara Digital Ventures Pvt Ltd), Mumbai, India from May’17 to March’20
+
 - Responsible for building innovative products to deliver 3000+ happy weddings
 - Accelerated the business growth by leading the product vision and development which resulted in 20x revenue growth over a period of 2.5 years
 - Built web and mobile applications from scratch using React, React Native, Python/ Django, Redis, PostgreSQL, and AWS.
 - Hired & retained top talent, conducted one-on-ones periodically, and mentored the team
 
 
-* Senior Software Engineer, Coverfox (Glitterbug Technology Pvt Ltd), Mumbai, India from Nov’15 to May’17
-========================================================================================================
+## Senior Software Engineer, Coverfox (Glitterbug Technology Pvt Ltd), Mumbai, India from Nov’15 to May’17
+
 - Built scalable software through architecture discussions with the leadership
 - Participated with other teams, to provide solutions for our customers
 - Managed Sprint/Development cycle for the development team and manage team during the cycle
@@ -56,18 +56,18 @@ A Technology Management Professional with 10+ years of experience in building so
 - Roundup or Track for bug tracking and project management
 
 
-* Software Engineer, TinyOwl Technology Pvt Ltd, Mumbai, India - from Apr’15 to Nov’15
-====================================================================================
+## Software Engineer, TinyOwl Technology Pvt Ltd, Mumbai, India - from Apr’15 to Nov’15
+
 - Responsible for developing and maintaining micro service applications using Ruby On Rails, MongoDB, PostgreSQL, Redis, AWS and etc…
 
 
-* Founder, Firebolt Labs Pvt Ltd, Bhimavaram, India - from Aug’14 to Apr’15
-==========================================================================
+## Founder, Firebolt Labs Pvt Ltd, Bhimavaram, India - from Aug’14 to Apr’15
+
 - Headed day-to-day-operations, as well as handled the company’s product and consulting projects.
 
 
-* Intern & Software Developer, Agiliq Info Solutions Pvt Ltd, Hyderabad, India - from Dec’11 to Aug’13
-=====================================================================================================
+## Intern & Software Developer, Agiliq Info Solutions Pvt Ltd, Hyderabad, India - from Dec’11 to Aug’13
+
 - Responsible for the development of web and mobile apps using various technologies like Ruby on Rails, Android and NodeJS.
 - Worked with serveral clients across the globe on various projects and helped them in building various web and mobile apps using Python/Django and Android.
 - Involved in the development of various new features, bugfixing and writing test cases for several Python/Django projects.
