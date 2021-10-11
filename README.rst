@@ -6,78 +6,112 @@ Bala Subrahmanyam Varanasi
 * Website: http://www.vabasu.com
 * Code: https://github.com/balu-varanasi
 * LinkedIn: https://in.linkedin.com/in/vabasu
-* Mobile: (+91) 9819633692
-
-----------------
-Technical Skills
-----------------
-**Web Frameworks**: Django, Ruby on Rails and Flask
-**Programming Languages**: Python, Ruby and Java
-**Scripting Languages**: Python, Ruby and JavaScript
-**Databases**: MySQL, PostgreSQL and MongoDB
-**Cloud Platforms**: Amazon AWS and Digital Ocean
-**CI/CD Tools**: Jenkins, Ansible and Docker
-**Markup Languages**: HTML5, Markdown and reStructuredText
-**Operating systems**: Ubuntu and Mac OS
-**Mobile Development**: Android
-**JavaScript Libraries**: jQuery, BackboneJs (Basic), KnockoutJS (Basic), ReactJS (Basic)
-
----------
-Interests
----------
-``Team Building``, ``Product Development``, ``Digital Media Marketing``, ``Backend Development``, ``OpenSource Software`` and ``DevOps``
+* Mobile: (+91) 9819-6336-92
 
 ----------
 Experience
 ----------
-A Senior Software Engineer with more than five years of professional experience from design and document to implementation of various Web and Mobile applications using Python/Django, Ruby on Rails and Android in a fast-paced deadline oriented environments.
+A Technology Management Professional with 10+ years of experience in building software products and teams. 
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Chief Technology Officer, Rhymella Inc. (successfully acquihired by Zazzle Inc.) from July’21 to September’21
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Laid out the product development strategy and led the product’s technical vision from idea to fully functional application which resulted in a successful startup acquisition
+- Designed and Implemented an image processing pipeline using AWS Serverless architecture and Amazon Rekognition API which evolved as a B2B product
+- Developed and maintained an application  using Python/ Django, Redis, PostgreSQL, MongoDB, Angular, and AWS
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Lead Full-Stack Software Consultant, ESPN CricInfo, “ESPN DIGITAL MEDIA PVT LTD” India, from Nov’20 to July 2021
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Reverse-Engineered legacy Cricinfo site and rebuilt it from scratch in modern architectures and technologies which served 30 million concurrent users during a live cricket match
+- Responsible for developing and maintaining highly scalable applications using Event-driven architectures
+- Implemented real-time cricket score updates using VerneMQ, which is a high-performance, distributed MQTT broker
+- Developed a Change Data Capture pipeline using Apache Kafka, Debezium, Node.JS, and Redis
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Lead Full-Stack Software Consultant, Proximity Labs Pvt Ltd, India, from Mar’20 to Nov’20
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Built the core team by Interviewing more than 70 candidates for various positions, including Engineering managers
+- Guided team development efforts towards successful project delivery
+- Maintained high standards of software quality within the team by establishing good practices and habits
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Chief Technology Officer, The Wedding Brigade (Sitara Digital Ventures Pvt Ltd), Mumbai, India - from May’17 to March’20
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+- Responsible for building innovative products to deliver 3000+ happy weddings
+- Accelerated the business growth by leading the product vision and development which resulted in 20x revenue growth over a period of 2.5 years
+- Built web and mobile applications from scratch using React, React Native, Python/ Django, Redis, PostgreSQL, and AWS.
+- Hired & retained top talent, conducted one-on-ones periodically, and mentored the team
+
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Senior Software Engineer at Glitterbug Technology, November 2015 – Present
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-- Build scalable software through architecture discussions with the leadership
-- Participate with other teams, to provide solutions for our customers
-- Manage Sprint/Development cycle for the development team and manage team during the cycle
-- Determine complexity level of a story in a Sprint/Development cycle
-- Communicate with leadership on current project status
+- Built scalable software through architecture discussions with the leadership
+- Participated with other teams, to provide solutions for our customers
+- Managed Sprint/Development cycle for the development team and manage team during the cycle
+- Determined complexity level of a story in a Sprint/Development cycle
+- Communicated with leadership on current project status
 - Error prevention and error detection possible
 - Test-driven development
 - Continuous integration
-- Roundup or Trac for bug tracking and project management
+- Roundup or Track for bug tracking and project management
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Software Engineer at TinyOwl Technology, April 2015 - November 2015
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Responsible for developing and maintaining micro service applications using Ruby On Rails, MongoDB, PostgreSQL, Redis, AWS and etc…
+- Responsible for developing and maintaining micro service applications using Ruby On Rails, MongoDB, PostgreSQL, Redis, AWS and etc…
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Founder at Firebolt Labs, Aug 2014 - April 2015
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Headed day-to-day-operations, as well as handled the company’s product and consulting projects.
+- Headed day-to-day-operations, as well as handled the company’s product and consulting projects.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Software Developer at Crypsis Technologies, Sept 2013 – July 2014
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Responsible for the development of web and mobile apps using various technologies like Ruby on Rails,
+- Responsible for the development of web and mobile apps using various technologies like Ruby on Rails,
 Android and NodeJS.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Software Developer at Agiliq Info Solutions, June 2012 – Aug 2013
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Worked with serveral clients across the globe on various projects and helped them in building various web and mobile apps using Python/Django and Android.
+- Worked with serveral clients across the globe on various projects and helped them in building various web and mobile apps using Python/Django and Android.
 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Intern at Agiliq Info Solutions, Dec 2011 – May 2012
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Involved in the development of various new features, bugfixing and writing test cases for several Python/Django projects.
+- Involved in the development of various new features, bugfixing and writing test cases for several Python/Django projects.
+
+----------------
+Technical Skills
+----------------
+`Python`, `Django`, `TypeScript`, `ReactJS`, `Redux`, `Next.JS`, `Nest.JS`, `React Native`, `Protocol Buffers`, `gRPC`, `Ansible`, `Vagrant`, `Docker`, `Kubernetes`, `Terraform`, `Apache Kafka`, `Kafka Connect`, `Debezium`, `MySQL`, `PostgreSQL`, `Redis`, and `AWS`.
+
+------------
+Publications
+------------
+"Python Requests Essentials", a book which showcases fundamental as well as advanced Python Requests concepts. (ISBN-10: 1784395412) (ISBN-13: 978-1784395414)
+
+------------
+As a speaker
+------------
+**Pycon India**, 2013; **SciPy.in**, 2011 & 2013 and **CoDec**, 2012
 
 --------
 Projects
 --------
 
+NodeJS Applications:
+
+* `ESPN CricInfo <https://www.espncricinfo.com/>`_
+
 Django Applications:
 
-* `CoverFox <https://https://www.coverfox.com/>`_, an online insurance destination
+* `Rhymella <https://dev.rhymella.com/>`_
+* `Skill2030 <https://www.skill2030.com/>`_
+* `The Wedding Brigade <https://www.theweddingbrigade.com/>`_
+* `CoverFox <https://www.coverfox.com/>`_, an online insurance destination
 * `Sufo <https://sufo.org>`_, an Educational Video site for Physicians
 * Feature Developments in `Suggestar <http://www.suggestar.com/>`_
 * Customized the Django Admin CMS for `CineSport <http://www.cinesport.com/>`_, an innovative web video syndication company
@@ -118,12 +152,3 @@ Education
 * **Intermediate** from Santhiniketan Junior College, 2006 – 2008
 * **SSC** from G.V&K.B.M School, 2006
 
-------------
-Publications
-------------
-"Python Requests Essentials", a book which showcases fundamental as well as advanced Python Requests concepts. (ISBN-10: 1784395412) (ISBN-13: 978-1784395414)
-
-------------
-As a speaker
-------------
-**Pycon India**, 2013; **SciPy.in**, 2011 & 2013 and **CoDec**, 2012
