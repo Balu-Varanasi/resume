@@ -45,32 +45,36 @@ Experience
 
 ### Senior Software Engineer, Coverfox (Glitterbug Technology Pvt Ltd), Mumbai, India from Nov’15 to May’17
 
-- Built scalable software through architecture discussions with the leadership
-- Participated with other teams, to provide solutions for our customers
-- Managed Sprint/Development cycle for the development team and manage team during the cycle
-- Determined complexity level of a story in a Sprint/Development cycle
-- Communicated with leadership on current project status
-- Error prevention and error detection possible
-- Test-driven development
-- Continuous integration
-- Roundup or Track for bug tracking and project management
+- Predominantly worked on Car Insurance and Bike Insurance products using Python/Django, Celery, and React
+- Implemented Continuous Integration and Continuous Deployment pipeline using Docker, Jenkins, and GitHub hooks
+- Managed Software Development cycle through Sprint periodically
+- Organized Office hours to fellow software engineers and taught them Python language
 
 
 ### Software Engineer, TinyOwl Technology Pvt Ltd, Mumbai, India - from Apr’15 to Nov’15
 
-- Responsible for developing and maintaining micro service applications using Ruby On Rails, MongoDB, PostgreSQL, Redis, AWS and etc…
+- Migrated a monolithic Food ordering application written using Ruby on Rails, PostgreSQL, Redis, RabbitMQ, and AWS into various microservices
+- Developed and managed inventory management, location management, and notifications management service
 
 
 ### Founder, Firebolt Labs Pvt Ltd, Bhimavaram, India - from Aug’14 to Apr’15
 
-- Headed day-to-day-operations, as well as handled the company’s product and consulting projects.
+- Headed day-to-day operations, as well as handling the company’s product and various consulting projects
+- Developed a Food ordering application to reduce food wastage and unwanted canteen/mess bills for students in our college area where 25,000 students were present in a 5 km radius
+- As a consultant, built StockViews, InvestmentClub, and Sufo applications using Python/Django, Celery, javascript/jQuery, Linode, Ruby on Rails, and AWS
+
+### Software Engineer, Crypsis Technologies Pvt Ltd, Hyderabad, India - from Sep’13 to Jul’14
+
+- Developed and maintained various Ruby on Rails applications for clients across the globe
+- Implemented two Android apps - "Windows Ambassador" which is a student collaboration app and "Where's My App?" which checks the availability status of apps and games in the Windows Phone Store for Microsoft
 
 
 ### Intern & Software Developer, Agiliq Info Solutions Pvt Ltd, Hyderabad, India - from Dec’11 to Aug’13
 
-- Responsible for the development of web and mobile apps using various technologies like Ruby on Rails, Android and NodeJS.
-- Worked with serveral clients across the globe on various projects and helped them in building various web and mobile apps using Python/Django and Android.
-- Involved in the development of various new features, bugfixing and writing test cases for several Python/Django projects.
+- Collaborated with our clients - Sufo, Suggestar, Occassio Health Strategies, TravelDojo, and CineSports who are from various parts of the world in requirements gathering and product roadmap development.
+- Built various full-stack web applications using Python, Django, Celery, JavaScript, jQuery, Linode, and Twitter Bootstrap framework
+- Contributed to opensource projects - django-graphs, scikit-learn, joblib, join.agiliq.com, hyderabadwiki and djenofdjango
+
 
 Technical Skills
 ----------------
