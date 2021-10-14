@@ -87,55 +87,49 @@ Publications
 As a speaker
 ------------
 **Pycon India**, 2013; **SciPy.in**, 2011 & 2013 and **CoDec**, 2012
+
 Projects
 --------
 
 #### NodeJS Applications:
 
-- `ESPN CricInfo <https://www.espncricinfo.com/>`_
+- [ESPN CricInfo](https://www.espncricinfo.com/)
 
 #### Django Applications:
 
-- `Rhymella <https://dev.rhymella.com/>`_
-- `Skill2030 <https://www.skill2030.com/>`_
-- `The Wedding Brigade <https://www.theweddingbrigade.com/>`_
-- `CoverFox <https://www.coverfox.com/>`_, an online insurance destination
-- `Sufo <https://sufo.org>`_, an Educational Video site for Physicians
-- Feature Developments in `Suggestar <http://www.suggestar.com/>`_
-- Customized the Django Admin CMS for `CineSport <http://www.cinesport.com/>`_, an innovative web video syndication company
-- Feature Development in `TravelDojo <http://www.traveldojo.com/>`_, a company to create travel guides to the Southeast Asia region
-- Testing and Bugfixes `Ocassio Health Strategies <https://www.occasiohealth.org/>`_
-- Seeded `HyderabadWiki <http://hyderabadwiki.com/>`_ with Wikipedia dump in LocalWiki Format
-- `The Xaming Arena <https://github.com/Balu-Varanasi/The_Xaming_Arena>`_, a simple Online Examination system using Django framework
+- [Rhymella](https://dev.rhymella.com/)
+- [Skill2030](https://www.skill2030.com/)
+- [The Wedding Brigade](https://www.theweddingbrigade.com/)
+- [CoverFox](https://www.coverfox.com/), an online insurance destination
+- [Sufo](https://sufo.org), an Educational Video site for Physicians
+- Feature Developments in [Suggestar](http://www.suggestar.com/)
+- Customized the Django Admin CMS for CineSport](http://www.cinesport.com/), an innovative web video syndication company
+- Feature Development in [TravelDojo](http://www.traveldojo.com/), a company to create travel guides to the Southeast Asia region
+- Testing and Bugfixes [Ocassio Health Strategies](https://www.occasiohealth.org/)
+- Seeded [HyderabadWiki](http://hyderabadwiki.com/) with Wikipedia dump in LocalWiki Format
+- [The Xaming Arena](https://github.com/Balu-Varanasi/The_Xaming_Arena), a simple Online Examination system using Django framework
 
 #### Ruby on Rails Applications:
 
-- `TinyOwl <http://tinyowl.com>`_, a food ordering application
+- [TinyOwl](http://tinyowl.com), a food ordering application
 - Mr Delicious, an online food delivery system
-- `Investment Club <http://investmentclub.stockviews.com/>`_ by `StockViews <http://www.stockviews.com/>`_
-- Feature Development in `Swym <http://swym.it/>`_
-- `Virtual Analyst <http://myvirtualanalyst.com/>`_ by `Analytics Intelligence <http://analyticsintelligence.com/>`_
-- Feature Developments and Test Cases Development in `Mega Golf Virtual League <http://dev.megagolfvirtualleague.com/>`_
+- [Investment Club](http://investmentclub.stockviews.com/) by [StockViews](http://www.stockviews.com/)
+- Feature Development in [Swym](http://swym.it/)
+- Virtual Analyst](http://myvirtualanalyst.com/) by [Analytics Intelligence](http://analyticsintelligence.com/)
+- Feature Developments and Test Cases Development in [Mega Golf Virtual League](http://dev.megagolfvirtualleague.com/)
 
 #### Android Applications:
 
 - "Windows Ambassador", an application by Microsoft
 - "Where's My App?", checks the availability status of apps and games in the Windows Phone Store
-- "`Baby Names <https://github.com/Balu-Varanasi/BabyNamesApp>`_", a simple android app to choose a baby name
+- [Baby Names](https://github.com/Balu-Varanasi/BabyNamesApp), a simple android app to choose a baby name
 
 #### Open Source:
 
-- `Feature Development <https://github.com/agiliq/django-graphos/commits?author=Balu-Varanasi>`_ in `django-graphos <https://github.com/agiliq/django-graphos>`_
-- `Bugfixes and pep8 improvements <https://github.com/scikit-learn/scikit-learn/commits?author=Balu-Varanasi>`_ in `scikit-learn <http://scikit-learn.org/>`_
-- `pep8 improvements <https://github.com/joblib/joblib/commits?author=Balu-Varanasi>`_ in `joblib <http://packages.python.org/joblib/>`_
-- `Sentiment Analyzer <https://github.com/Balu-Varanasi/sentiment-analyzer>`_, a simple sentiment classification tool for Telugu Language
-- `Feature Improvements and Test Cases <https://github.com/agiliq/join.agiliq.com/commits?author=Balu-Varanasi>`_ in `Join.agiliq.com <https://github.com/agiliq/join.agiliq.com/>`_
-- `Improvments to code samples <https://github.com/agiliq/djenofdjango/commits?author=Balu-Varanasi>`_ in `DjenOfDjango <http://agiliq.com/books/djenofdjango>`_
-
-Education
----------
-* **Artificial Intelligence Nanodegree**, Udacity, January 2017 – Present
-* **Bachelor of Technology**, Information Technology from Vishnu Institute of Technology, 2008 – 2012
-* **Intermediate** from Santhiniketan Junior College, 2006 – 2008
-* **SSC** from G.V&K.B.M School, 2006
+- [Feature Developments](https://github.com/agiliq/django-graphos/commits?author=Balu-Varanasi) in [django-graphos](https://github.com/agiliq/django-graphos)`
+- [Bugfixes and pep8 improvements](https://github.com/scikit-learn/scikit-learn/commits?author=Balu-Varanasi) in `[scikit-learn](http://scikit-learn.org/`)
+- [pep8 improvements](https://github.com/joblib/joblib/commits?author=Balu-Varanasi) in [joblib](http://packages.python.org/joblib/)
+- [Sentiment Analyzer](https://github.com/Balu-Varanasi/sentiment-analyzer), a simple sentiment classification tool for Telugu Language
+- [Feature Improvements and Test Cases](https://github.com/agiliq/join.agiliq.com/commits?author=Balu-Varanasi) in [join.agiliq.com](https://github.com/agiliq/join.agiliq.com/)
+- [Improvments to code samples](https://github.com/agiliq/djenofdjango/commits?author=Balu-Varanasi) in [DjenOfDjango](http://agiliq.com/books/djenofdjango)
 
