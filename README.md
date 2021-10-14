@@ -115,7 +115,7 @@ Projects
 - Mr Delicious, an online food delivery system
 - [Investment Club](http://investmentclub.stockviews.com/) by [StockViews](http://www.stockviews.com/)
 - Feature Development in [Swym](http://swym.it/)
-- Virtual Analyst](http://myvirtualanalyst.com/) by [Analytics Intelligence](http://analyticsintelligence.com/)
+- [Virtual Analyst](http://myvirtualanalyst.com/) by [Analytics Intelligence](http://analyticsintelligence.com/)
 - Feature Developments and Test Cases Development in [Mega Golf Virtual League](http://dev.megagolfvirtualleague.com/)
 
 #### Android Applications:
@@ -127,7 +127,7 @@ Projects
 #### Open Source:
 
 - [Feature Developments](https://github.com/agiliq/django-graphos/commits?author=Balu-Varanasi) in [django-graphos](https://github.com/agiliq/django-graphos)`
-- [Bugfixes and pep8 improvements](https://github.com/scikit-learn/scikit-learn/commits?author=Balu-Varanasi) in `[scikit-learn](http://scikit-learn.org/`)
+- [Bugfixes and pep8 improvements](https://github.com/scikit-learn/scikit-learn/commits?author=Balu-Varanasi) in [scikit-learn](http://scikit-learn.org/)
 - [pep8 improvements](https://github.com/joblib/joblib/commits?author=Balu-Varanasi) in [joblib](http://packages.python.org/joblib/)
 - [Sentiment Analyzer](https://github.com/Balu-Varanasi/sentiment-analyzer), a simple sentiment classification tool for Telugu Language
 - [Feature Improvements and Test Cases](https://github.com/agiliq/join.agiliq.com/commits?author=Balu-Varanasi) in [join.agiliq.com](https://github.com/agiliq/join.agiliq.com/)
