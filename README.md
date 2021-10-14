@@ -103,7 +103,7 @@ Projects
 - [CoverFox](https://www.coverfox.com/), an online insurance destination
 - [Sufo](https://sufo.org), an Educational Video site for Physicians
 - Feature Developments in [Suggestar](http://www.suggestar.com/)
-- Customized the Django Admin CMS for CineSport](http://www.cinesport.com/), an innovative web video syndication company
+- Customized the Django Admin CMS for [CineSport](http://www.cinesport.com/), an innovative web video syndication company
 - Feature Development in [TravelDojo](http://www.traveldojo.com/), a company to create travel guides to the Southeast Asia region
 - Testing and Bugfixes [Ocassio Health Strategies](https://www.occasiohealth.org/)
 - Seeded [HyderabadWiki](http://hyderabadwiki.com/) with Wikipedia dump in LocalWiki Format
