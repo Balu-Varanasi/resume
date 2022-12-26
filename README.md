@@ -5,14 +5,18 @@ Bala Subrahmanyam Varanasi
 * Website: http://www.vabasu.com
 * Code: https://github.com/balu-varanasi
 * LinkedIn: https://in.linkedin.com/in/vabasu
-* Mobile: (+91) 9819-6336-92
+* Mobile: (+91) 9010-5500-44
 
 Summary
 -------
-A Technology Management Professional with 10+ years of experience in building software products and teams. 
+Passionate and technical engineering leader with a good record of delivering impactful results. Proficient at using interpersonal abilities to mentor and lead team members to design, develop and implement innovative engineering products. Seeking a position in which I can use my experience and knowledge to elevate my team members and solve real-world problems.
 
 Experience
 ----------
+
+### Software Engineering Consultant, Esme Learning Solutins Inc from Dec'20 to now
+- Developing collaboration tools that provide AI-powered behavioral analytics to improve meeting participant experience and outcomes.
+
 ### Chief Technology Officer, Rhymella Inc. (successfully acquihired by Zazzle Inc.) from July’21 to September’21
 
 - Laid out the product development strategy and led the product’s technical vision from idea to fully functional application which resulted in a successful startup acquisition
@@ -91,13 +95,15 @@ As a speaker
 Projects
 --------
 
-#### NodeJS Applications:
+#### JavaScript (TypeScript, NodeJS, React, React Native) Applications:
 
+- [Riff Analytics](https://riffanalytics.ai/)
 - [ESPN CricInfo](https://www.espncricinfo.com/)
+- [The Wedding Brigade](https://www.crunchbase.com/organization/indear) - [Android](https://play.google.com/store/apps/details?id=com.twbnative&hl=en_IN&gl=US) - [iOS](https://apps.apple.com/us/app/the-wedding-brigade/id1482527336)
 
 #### Django Applications:
 
-- [Rhymella](https://dev.rhymella.com/)
+- [Rhymella](https://rhymella.com/)
 - [Skill2030](https://www.skill2030.com/)
 - [The Wedding Brigade](https://www.theweddingbrigade.com/)
 - [CoverFox](https://www.coverfox.com/), an online insurance destination
